@@ -1,0 +1,72 @@
+1.Az allábiak közöl melyik az áramerősség jele? (b.)
+	a.R
+	b.I
+	c.U
+	d.P
+
+2.Mit csinál a Windows Update funkció a windows-os rendszerekben?(a.)
+	a.Frissítések telepíthetők
+	b.Ütemezett feladatokat tudunk létrehozni
+	c.Eseményeket naplóz
+	d.Futó feladatokat tudunk kezelni
+
+3.Melyik ROM tipus csak olvasható?(a.)
+	a.ROM
+	b.EEPROM
+	c.PROM
+	d.EPROM
+
+4.Melyik NEM videójel továbbítására szolgáló kábel?(c.)
+	a.DisplayPort
+	b.VGA
+	c.IDE
+	d.RCA
+
+5.Milyen eszközt NEM ajánlott használni a számítógépbe kerülő por takarítása esetén?(b.)
+	a.Sűrített levegőt tartalmazó flakont
+	b.Magas nyomású kompresszort
+	c.Alacsony légáramú ESD-porszívót
+	d.Foszlásmentes törlőkendőt
+
+6.A HTTP protokol melyik hálózati rétegbe tartozik?(d.)
+	a.Szállítási réteg
+	b.Hálózati elérési réteg
+	c.Internet réteg
+	d.Alkalmazási réteg
+
+7.Melyik a mesterséges intelligencia rövidítése?(c.)
+	a.AR
+	b.VR
+	c.AI
+	d.Cloud
+
+8.Melyik RAID szint használja a csíkozás paritássalt?(b.)
+	a.RAID 1
+	b.RAID 5
+	c.RAID 0
+	d.RAID 10
+
+9.Mit jelent a CPU Hyper-Threading?(b.)
+	a.A javasoltnál magasabb frekvenciájú órajel használata
+	b.A CPU egy időben több különböző programrészletet (szálat) tud végrehajtani.
+	c.Lassabban működteti a processzort a névleges sebességénél
+	d.Egy gyors összeköttetés a CPU és az északi híd között.
+
+
+10.Melyik a legkisebb alaplap formátum?(b.)
+	a.Micro-ATX
+	b.Mini-ITX
+	c.ATX
+	d.ITX
+
+
+
+
+
+
+
+
+
+
+
+
